@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer
+Frontend Developer with 4+ years of expirience
 
 [![Profile badge](https://www.codewars.com/users/festil/badges/large)](https://www.codewars.com/users/festil)
 
